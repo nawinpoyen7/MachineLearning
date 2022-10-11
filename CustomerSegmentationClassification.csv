@@ -1062,7 +1062,7 @@ ID,Gender,Ever_Married,Age,Graduated,Profession,Work_Experience,Spending_Score,F
 467834,Female,No,23,No,Healthcare,0,Low,4,Cat_2,D
 463019,Male,Yes,45,Yes,Executive,0,High,4,Cat_6,B
 466996,Female,No,37,Yes,Artist,9,Low,1,Cat_6,A
-463026,Male,Yes,28,Yes,Doctor,,Low,2,Cat_6,D
+463026,Male,Yes,28,Yes,Doctor,0,Low,2,Cat_6,D
 459479,Male,Yes,70,No,Marketing,1,Low,2,Cat_6,A
 465565,Male,Yes,37,Yes,Artist,1,Average,2,Cat_6,C
 459523,Female,No,19,No,Doctor,1,Low,4,Cat_6,D
